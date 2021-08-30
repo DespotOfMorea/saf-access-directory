@@ -1,4 +1,4 @@
-# Storage Access Framework for accessing directory (on Android 11+)
+# Storage Access Framework for accessing directory<br>(on Android 11+)
 
 Simple example how to access files from specific directory on device, using Storage Access Framework, on Android 11+, without any permission. Once User allow your App access to specific directory, uri will be saved in shared preferences, for later use.
 
